@@ -31,7 +31,7 @@ Without wanting to over-commit resources to social media and other forms of onli
 
 * Website https://publicmoneypubliccode.org.uk/
 * Instagram https://www.instagram.com/pubmoneypubcode/
-* Twitter https://twitter.com/PubMoneyPubCode 
+* Twitter https://twitter.com/PubMoneyPubCode (run by @joe, @kevin, @francesca)
 * Domain Name publicmoneypubliccode.org.uk (registered by @kevin)
 * GitHub https://github.com/publicmoneypubliccode-cic (managed by @marcus)
 
